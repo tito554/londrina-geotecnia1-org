@@ -1,0 +1,51 @@
+# Geotecnia1 — Londrina
+
+> Geotechnical engineering services in Londrina, Brasil.
+
+## Services
+- [Ancoragens](https://londrina.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://londrina.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://londrina.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://londrina.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://londrina.geotecnia1.org/ensaio-cpt/)
+- [Ensaios Proctor](https://londrina.geotecnia1.org/ensaios-proctor/)
+- [Escavacoes](https://londrina.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://londrina.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://londrina.geotecnia1.org/estabilidade-taludes/)
+- [Estacas](https://londrina.geotecnia1.org/estacas/)
+- [Fundacoes](https://londrina.geotecnia1.org/fundacoes/)
+- [Geotecnia Viaria](https://londrina.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://londrina.geotecnia1.org/granulometria/)
+- [Injecoes](https://londrina.geotecnia1.org/injecoes/)
+- [Investigacao](https://londrina.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://londrina.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://londrina.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://londrina.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://londrina.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://londrina.geotecnia1.org/liquefacao/)
+- [Masw](https://londrina.geotecnia1.org/masw/)
+- [Melhoramento](https://londrina.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://londrina.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://londrina.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://londrina.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://londrina.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://londrina.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://londrina.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://londrina.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://londrina.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://londrina.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://londrina.geotecnia1.org/resistividade/)
+- [Sapatas](https://londrina.geotecnia1.org/sapatas/)
+- [Sismica](https://londrina.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://londrina.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://londrina.geotecnia1.org/taludes/)
+- [Triaxial](https://londrina.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://londrina.geotecnia1.org/tuneis-solo-mole/)
+- [Vibrocompactacao](https://londrina.geotecnia1.org/vibrocompactacao/)
+
+## Contact
+- Website: https://londrina.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Londrina, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
